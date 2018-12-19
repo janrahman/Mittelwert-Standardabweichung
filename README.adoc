@@ -23,4 +23,6 @@ image::arithmetischesMittel.svg[static,400]
 image::standardabweichung.svg[static,300]
 
 == Quellen
-* wikipedia.org (Bilder)
+* Formeln:
+** https://de.wikipedia.org/wiki/Mittelwert
+** https://de.wikipedia.org/wiki/Empirische_Varianz

@@ -21,3 +21,6 @@ image::arithmetischesMittel.svg[static,400]
 * berechnet mithilfe des arithmetischen Mittels die Standardabweichung
 +
 image::standardabweichung.svg[static,300]
+
+== Quellen
+* wikipedia.org (Bilder)

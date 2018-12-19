@@ -4,7 +4,6 @@
 
 int main()
 {
-
     float mittelwert;
     float standardabweichung;
 

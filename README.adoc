@@ -1,0 +1,2 @@
+# Mittelwert-Standardabweichung
+Einfaches C-Programm zur Berechnung von Mittelwert und Standardabweichung.

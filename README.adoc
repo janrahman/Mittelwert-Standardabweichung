@@ -1,2 +1,23 @@
-# Mittelwert-Standardabweichung
-Einfaches C-Programm zur Berechnung von Mittelwert und Standardabweichung.
+= Mittelwert-Standardabweichung
+:toc:
+:imagesdir: ./images
+
+== Beschreibung
+
+Einfaches C-Programm zur Berechnung von Mittelwert und Standardabweichung. +
+Der Nutzer gibt zunächst die Anzahl der Zahlen und anschließend die Werte (floats) zur Berechnung an.
+
+== Aufbau
+
+=== main.c
+* Eingabe, Funktionsaufruf, Ausgabe
+
+=== mittelwert.c
+* berechnet Mittelwert (arithmetisches Mittel)
++
+image::arithmetischesMittel.svg[static,400]
+
+=== standardabweichung.c
+* berechnet mithilfe des arithmetisches Mittels die Standardabweichung
++
+image::standardabweichung.svg[static,300]

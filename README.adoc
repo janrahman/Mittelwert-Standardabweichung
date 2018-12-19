@@ -18,6 +18,6 @@ Der Nutzer gibt zunächst die Anzahl der Zahlen und anschließend die Werte (flo
 image::arithmetischesMittel.svg[static,400]
 
 === standardabweichung.c
-* berechnet mithilfe des arithmetisches Mittels die Standardabweichung
+* berechnet mithilfe des arithmetischen Mittels die Standardabweichung
 +
 image::standardabweichung.svg[static,300]

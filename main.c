@@ -11,8 +11,14 @@ int main()
     int n;
 
     printf("Bitte geben Sie die Anzahl der Zahlen ein, die berechnet werden sollen:\n");
-    scanf("%i", &n);
+    scanf("%u", &n);
     printf("Bitte geben Sie hintereinander die %i Zahlen ein:\n", n);
+
+    if (n < 1)
+    {
+        printf("Fehler: Anzahl ist zu niedrig.\n");
+        return ERROR_EMPTY_ARRAY;
+    }
 
     float zahlen[n];
 
